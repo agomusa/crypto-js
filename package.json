@@ -1,0 +1,9 @@
+{
+  "name": "crypto-tests-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "create-hmac": "^1.1.7"
+  }
+}
